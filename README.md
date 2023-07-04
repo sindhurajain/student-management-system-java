@@ -1,1 +1,1 @@
-# studentmanagementsystem-java
+# student-management-system-java
